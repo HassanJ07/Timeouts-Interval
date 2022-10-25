@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(220, 208, 73);
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black ;
+}
+.mole{
+    background-color: rgb(255, 0, 0) ;
+}
+.center{
+    text-align: center;
+}
